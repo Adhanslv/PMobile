@@ -204,7 +204,7 @@ class SnackBar extends StatelessWidget {
             Text(
                 "\n\n\n Di Tahun 1958 Eitaro asal Jepang, membuat perusahaan helm SHOEI, dan menjadi produsen helm terbsar dam terkenal di dunia hingga saat ini\n"),
             Text(
-                "Menggunakan bahan dasar fiberglass, SHOEI membuat berfungsi berbagai macam pilihan\n,"),
+                "Menggunakan bahan dasar fiberglass, SHOEI membuat berfungsi berbagai macam pilihan\n"),
             Text(
                 "Helm berbahan dasar fiberglass ini di akui menjadi helm terbaik yang mengunggulkan keamanan dan performa dalam berkendara.\n\n\n,"),
             ElevatedButton(
