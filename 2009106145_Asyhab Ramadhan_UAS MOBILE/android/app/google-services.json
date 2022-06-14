@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1073764825264",
+    "project_id": "postest7-145-asyhab-rama-837ac",
+    "storage_bucket": "postest7-145-asyhab-rama-837ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1073764825264:android:212707d6271a13e7226375",
+        "android_client_info": {
+          "package_name": "com.example.postest7"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1073764825264-ql1vsudipq000b0ruqfvfpabqhedrc66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWhyCpeLrB2SqIvliOG5l9A6xxVMxpRlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1073764825264-ql1vsudipq000b0ruqfvfpabqhedrc66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
